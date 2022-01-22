@@ -1,1 +1,1 @@
-import './poznamky.js';
+import './ukol4.js';
