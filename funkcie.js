@@ -1,4 +1,4 @@
-function back5() {
+function backFive() {
   return 5;
 }
 
@@ -6,12 +6,18 @@ function helloWorld() {
   console.log('Ahoj svet!');
 }
 
-/*let a = back5();
+/*let a = backFive();
 console.log(a);*/
 
-function sum2numbers(first, second) {
+function sumTwoNumbers(first, second) {
   return first + second;
 }
 
-let outcome = sum2numbers(10, 55);
+let outcome = sumTwoNumbers(10, 55);
 console.log(outcome);
+
+function biggestNumber(x, y, z);
+
+
+let output = biggestNumber(10, 55, 22);
+console.log(output);
